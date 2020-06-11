@@ -61,4 +61,6 @@ replace github.com/tendermint/iavl => github.com/idena-network/iavl v0.12.3-0.20
 
 replace github.com/libp2p/go-libp2p-pnet => github.com/idena-network/go-libp2p-pnet v0.2.1-0.20200406075059-75d9ee9b85ed
 
+replace github.com/dgraph-io/badger => github.com/sidenaio/badger v1.6.2-0.20200611112326-92fce499d15c
+
 go 1.13
